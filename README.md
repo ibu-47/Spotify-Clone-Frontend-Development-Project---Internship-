@@ -22,7 +22,9 @@ Provides visual feedback when songs are played or paused with an animated GIF an
 Technologies Used
 
 HTML: Structure of the web application.
+
 CSS: Styling of the application, including responsiveness and visual design.
+
 JavaScript: Functionality for the music player, including event handling and DOM manipulation.
 
 Installation
@@ -48,7 +50,9 @@ Project Structure
 The project is structured as follows:
 
 index.html: The main HTML file that contains the structure of the web application.
+
 style.css: The CSS file that contains the styling rules for the application.
+
 script.js: The JavaScript file that contains the functionality for the music player.
 
 Acknowledgements
