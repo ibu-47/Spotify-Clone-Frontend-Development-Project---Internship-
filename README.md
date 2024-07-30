@@ -1,4 +1,5 @@
 Spotify Clone Frontend Development Project
+
 Welcome to the Spotify Clone Frontend Development Project! This repository contains the source code for a Spotify clone developed as part of a frontend development internship. The project showcases the use of HTML, CSS, and JavaScript to create a functional and visually appealing music streaming web application.
 
 Features
